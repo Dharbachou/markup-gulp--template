@@ -1,0 +1,12 @@
+/**
+  Styles for text
+*/
+
+@import '../abstracts/_variables.scss';
+
+body {
+  font-family: $font-family;
+  font-weight: 400;
+  font-size: $font-size-paragraph;
+  letter-spacing: .2rem;
+}
